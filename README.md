@@ -1,3 +1,9 @@
-# ReactJS Concepts
+# Learning - ReactJS
 
-Simple project developed to learn ReactJS concepts
+:us: Project part of the bootcamp Gostack from Rocketseat. Basic concepts from ReactJS.
+
+:brazil: Projeto parte do bootcamp Gostack da Rocketseat. Conceitos básicos do ReactJS.
+
+:toolbox: Used in this project:
+
+- ReactJS
